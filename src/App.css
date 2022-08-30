@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.red{
+  color: red;
+}
+
+#blue{
+  color: blue;
+}
+
+#navbar{
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: auto;
+  border: 2px;
+  padding: 1rem;
+  background-color: black;
+}
+
+#navbar a{
+  text-decoration: none;
+  text-transform: capitalize;
+  font-size: 20px;
+  color: white;
+}
+

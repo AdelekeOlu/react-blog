@@ -1,0 +1,13 @@
+.about {
+  width: 80%;
+  margin: auto;
+  background: linear-gradient(to left, orange, red);
+  background-clip: none;
+  border-radius: 5px;
+  padding: 1rem;
+  box-shadow: -2px 3px 5px blue;
+  margin-bottom: 1rem;
+}
+.about p {
+  text-align: start;
+}/*# sourceMappingURL=about.css.map */

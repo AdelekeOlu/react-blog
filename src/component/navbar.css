@@ -1,0 +1,99 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: auto;
+}
+.nav .wmt {
+  display: flex;
+  gap: 5px;
+}
+.nav .wmt h1 {
+  background: linear-gradient(to left, orange, red);
+  background-clip: none;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.nav .wmt h6 {
+  margin-top: 1.8rem;
+  text-align: start;
+  color: navy;
+}
+.nav .home {
+  display: flex;
+  justify-content: space-between;
+  gap: 3rem;
+  margin: auto;
+  margin-right: 5rem;
+}
+.nav .home a {
+  margin: auto;
+  text-decoration: none;
+  text-transform: capitalize;
+  color: navy;
+  font-size: 14px;
+  font-weight: 600;
+}
+.nav .home .con {
+  padding: 5px 20px;
+  border: 2px solid orangered;
+  border-radius: 4px;
+  color: orangered;
+}
+
+.make {
+  display: flex;
+  width: 92%;
+  margin: auto;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+.make .we {
+  text-align: start;
+  margin-top: 5rem;
+  margin-left: 1rem;
+}
+.make .we h1 {
+  font-size: 60px;
+  font-weight: 400;
+  text-transform: capitalize;
+  line-height: 15px;
+  color: navy;
+}
+.make .we .tech {
+  height: 25vh;
+  padding: 1.5rem;
+  font-size: 100px;
+  font-weight: 700;
+  background: linear-gradient(to left, orange, red);
+  background-clip: none;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-left: -1.5rem;
+  margin-top: -2px;
+}
+.make .we h6 {
+  font-size: 27px;
+  font-weight: 400;
+  color: navy;
+  margin-top: -11rem;
+}
+.make .we a {
+  text-decoration: none;
+  color: orangered;
+  padding: 5px 30px;
+  background-color: rgba(255, 69, 0, 0.2509803922);
+  font-size: 22px;
+  font-weight: 400;
+  border-radius: 4px;
+}
+.make .img {
+  display: flex;
+  height: 112vh;
+  width: 56%;
+  align-content: center;
+  background-image: url(./img/469px-Blue_globe_icon.svg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: -1rem;
+}/*# sourceMappingURL=navbar.css.map */

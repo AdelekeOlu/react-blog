@@ -1,0 +1,42 @@
+h1{
+    color: navy;
+}
+.blog-content{
+    margin: 1rem 10%;
+    display: grid;
+    text-align: left;
+    // background-color: orangered;
+    background: linear-gradient(to left, orange, red);
+    background-clip: none;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: -2px 3px 5px blue;
+
+    h1{
+        text-transform: uppercase;
+        font-size: 1.5rem;
+        text-align: center;
+        color: navy;
+    }
+
+    p{
+        margin-top: 1rem;
+        font-size: 1.2rem;
+        margin-left: 1rem;
+        border-left: 2px solid blue;
+        padding: 0.5rem 0rem 0.5rem 1.5rem;
+    }
+
+    h6{
+        margin-top: 1rem;
+        color: red;
+    }
+
+    button{
+        width: 15%;
+        padding: 1rem;
+        background-color: black;
+        color: white;
+        border-radius: 5px;
+    }
+}

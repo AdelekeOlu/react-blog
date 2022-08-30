@@ -1,0 +1,17 @@
+.loader {
+  width: 100vh;
+  height: 100vh;
+  display: flex;
+  align-content: center;
+  margin: auto;
+}
+.loader .img {
+  width: 500px;
+  height: 400px;
+  background-image: url("../../../../public/preloader.gif");
+  background-repeat: none;
+  background-position: center;
+  background-size: cover;
+  margin: auto;
+  margin-top: -1rem;
+}/*# sourceMappingURL=loader.css.map */

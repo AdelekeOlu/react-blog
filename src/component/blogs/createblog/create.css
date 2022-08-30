@@ -1,0 +1,71 @@
+.create {
+  width: 80%;
+  margin: auto;
+  border-radius: 5px;
+  padding: 1rem;
+  background: linear-gradient(to left, orange, red);
+  background-clip: none;
+  box-shadow: -2px 3px 5px blue;
+  margin-bottom: 1rem;
+}
+.create h1 {
+  color: navy;
+  text-transform: uppercase;
+}
+.create form {
+  padding: 1rem;
+}
+.create form h3 {
+  color: navy;
+}
+.create form .title {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+}
+.create form .title label {
+  color: navy;
+  font-size: 20px;
+}
+.create form .title input {
+  width: 60%;
+  height: 30px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+}
+.create form textarea {
+  text-align: center;
+  outline: none;
+  border: none;
+}
+.create form .authors label {
+  font-size: 20px;
+  font-weight: bold;
+  color: navy;
+}
+.create form .authors select {
+  height: 30px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
+.create form .update {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+.create form .update button {
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: 5px;
+  outline: none;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.create form .update button:hover {
+  background-color: green;
+}/*# sourceMappingURL=create.css.map */

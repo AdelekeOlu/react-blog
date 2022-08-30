@@ -1,0 +1,86 @@
+.create{
+    width: 80%;
+    margin: auto;
+    border-radius: 5px;
+    padding: 1rem;
+    // background-color: #ff450095;
+    background: linear-gradient(to left, orange, red);
+    background-clip: none;
+    box-shadow: -2px 3px 5px blue;
+    margin-bottom: 1rem;
+
+
+    h1{
+        color: navy;
+        text-transform: uppercase;
+    }
+
+    form{
+        // border: 2px solid navy;
+        padding: 1rem;
+        // background-color: orangered;
+
+    h3{
+        color: navy;
+    }
+
+    .title{
+        display: flex;
+        gap: 5px;
+        justify-content: center;
+        
+
+    label{
+        color: navy;
+        font-size: 20px;
+    }
+    input{
+        width: 60%;
+        height: 30px;
+        outline: none;
+        border: none;
+        border-radius: 5px;
+        text-align: center;
+    }
+    }
+    textarea{
+        text-align: center;
+        outline: none;
+        border: none;
+    }
+    .authors{
+        label{
+            font-size: 20px;
+            font-weight: bold;
+            color: navy;
+        }
+        select{
+            height: 30px;
+            border-radius: 5px;
+            outline: none;
+            border: none;
+        }
+    }
+
+    .update{
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+
+        button{
+        margin-top: 1rem;
+        padding: 1rem;
+        border-radius: 5px;
+        outline: none;
+        background-color: black;
+        color: white;
+        border: none;
+        cursor: pointer;
+        
+        &:hover{
+            background-color:green;
+        }
+    }
+}
+}
+}

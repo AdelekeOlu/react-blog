@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "author": "Ade",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, nulla possimus? Tempora magnam similique reprehenderit praesentium porro. Ipsam molestias id iusto hic magni sed expedita. Eaque libero, enim molestias veniam unde molestiae voluptates, nemo quidem ducimus quasi quaerat rerum provident non minus ea illum dolore eos. Dolorem accusamus mollitia harum? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, nulla possimus? Tempora magnam similique reprehenderit praesentium porro. Ipsam molestias id iusto hic magni sed expedita. Eaque libero, enim molestias veniam unde molestiae voluptates, nemo quidem ducimus quasi quaerat rerum provident non minus ea illum dolore eos. Dolorem accusamus mollitia harum? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, nulla possimus? Tempora magnam similique reprehenderit praesentium porro. Ipsam molestias id iusto hic magni sed expedita. Eaque libero, enim molestias veniam unde molestiae voluptates, nemo quidem ducimus quasi quaerat rerum provident non minus ea illum dolore eos. Dolorem accusamus mollitia harum?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, nulla possimus? Tempora magnam similique reprehenderit praesentium porro. Ipsam molestias id iusto hic magni sed expedita. Eaque libero, enim molestias veniam unde molestiae voluptates, nemo quidem ducimus quasi quaerat rerum provident non minus ea illum dolore eos. Dolorem accusamus mollitia harum?",
+      "title": "About Ade",
+      "id": 1
+    },
+    {
+      "author": "Praise",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, nulla possimus? Tempora magnam similique reprehenderit praesentium porro. Ipsam molestias id iusto hic magni sed expedita. Eaque libero, enim molestias veniam unde molestiae voluptates, nemo quidem ducimus quasi quaerat rerum provident non minus ea illum dolore eos. Dolorem accusamus mollitia harum?",
+      "title": "About Praise",
+      "id": 2
+    },
+    {
+      "author": "praise",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi quisquam beatae, eos delectus, animi vel architecto id, corporis aperiam pariatur quidem. Nemo dolor qui odio itaque laboriosam nulla non reiciendis doloribus. Voluptatem, nemo tempore? Pariatur numquam, voluptatum dolorum culpa maxime velit odio neque aliquam, temporibus molestias tempore recusandae repudiandae accusamus labore dolorem ea, aliquid reprehenderit quidem quam molestiae voluptatem. Adipisci maiores quasi consequuntur alias, at atque porro tempore sapiente possimus, maxime id aspernatur animi ullam quia rerum fuga dolorum mollitia, eos architecto. Reprehenderit laboriosam commodi nihil. Consectetur, modi cumque. Molestias, beatae? Nostrum eos dolore ipsam! Ratione suscipit eos perspiciatis i",
+      "title": "come back",
+      "id": 3
+    },
+    {
+      "title": "be humble",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi quisquam beatae, eos delectus, animi vel architecto id, corporis aperiam pariatur quidem. Nemo dolor qui odio itaque laboriosam nulla non reiciendis doloribus. Voluptatem, nemo tempore? Pariatur numquam, voluptatum dolorum culpa maxime velit odio neque aliquam, temporibus molestias tempore recusandae repudiandae accusamus labore dolorem ea, aliquid reprehenderit quidem quam molestiae voluptatem. Adipisci maiores quasi consequuntur alias, at atque porro tempore sapiente possimus, maxime id aspernatur animi ullam quia rerum fuga dolorum mollitia, eos architecto. Reprehenderit laboriosam commodi nihil. Consectetur, modi cumque. Molestias, beatae? Nostrum eos dolore ipsam! Ratione suscipit eos perspiciatis ipsum labore quos eaque blanditiis aliquid obcaecati. Reiciendis dolor assumenda, unde saepe quibusdam velit ab, inventore officia in sapiente quisquam consequatur eaque quod blanditiis ex soluta neque ipsam est placeat labore?",
+      "author": "praise",
+      "id": 4
+    }
+  ]
+}
