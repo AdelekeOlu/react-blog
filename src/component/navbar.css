@@ -20,11 +20,19 @@
   color: navy;
 }
 .nav .home {
+  position: relative;
   display: flex;
   justify-content: space-between;
   gap: 3rem;
   margin: auto;
   margin-right: 5rem;
+}
+.nav .home .link-active {
+  position: relative;
+  margin-top: 1rem;
+  color: orangered;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid orangered;
 }
 .nav .home a {
   margin: auto;
